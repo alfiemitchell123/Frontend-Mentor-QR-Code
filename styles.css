@@ -1,0 +1,36 @@
+body {
+    background-color: hsl(212, 45%, 89%);
+    font-family: Outfit;
+}
+
+.center-div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.container {
+    background-color: white;
+    width: 245px;
+    height: 380px;
+    border-radius: 12px;
+    text-align: center;
+    padding: 15px;
+    padding-top: 25px;
+}
+
+#qr-code {
+    border-radius: 10px;
+}
+
+h1 {
+    font-size: 20px;
+    color: hsl(218, 44%, 22%);
+    padding-top: 5px;
+}
+
+p {
+    font-size: 15px;
+    color: hsl(220, 15%, 55%);
+}
